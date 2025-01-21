@@ -4,7 +4,7 @@ compatibility_date = "2024-08-05"
 [vars]
 DATABASE_URL = ""
 
-MY_JWT_SECRET_KEY = "earlyMorning1996"
+MY_JWT_SECRET_KEY = ""
 
 # MY_VAR = "my-variable"
 
